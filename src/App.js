@@ -14,14 +14,14 @@ import './App.css';
 //import Signup from './Signup';
 //import Formvalidation from './Formvalidation';
 //import Calculator from './calculator';
-import Fetch from './Fetch';
-
+//import Fetch from './Fetch';
+import Table from './Table';
 function App() {
   return (
     <div className="yes">
       {/* <Testing /> */}
       {/*<SayHello />*/}
-      <Fetch/>
+      <Table/>
       {/*<Vamshi name='vamshi' age='25' place='warangal'*/}
       
      
