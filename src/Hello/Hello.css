@@ -1,0 +1,33 @@
+button{
+    padding: 5px 10px;
+    border: none;
+    outline: none;
+    background-color: none;
+    margin: 0 10px;
+    color: #fff;
+    font-size: 18px;
+    text-transform: capitalize;
+    border-radius: 5px;
+    font-weight: 900;
+    min-width: 50px;
+    box-shadow: 0 0 5px #ccc;
+    cursor: pointer;
+}
+
+button.increment{
+    background-color: greenyellow;
+}
+
+button.decrement{
+    background-color: red;
+}
+
+button.reset{
+    background-color: #999;
+}
+
+h1{
+    font-size: 100px;
+    color: blueviolet;
+    /* text-shadow: 0 0 5px blue; */
+}
